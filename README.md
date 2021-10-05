@@ -7,4 +7,5 @@ I created a click counter which is consists of a button and a text element that 
 To run the code in the browser, I used the **npm start** command.
 
 After running the code locally, I got the following output:
+
 ![Part 1](https://github.com/mercihohmann/Images/blob/master/part1.png)
